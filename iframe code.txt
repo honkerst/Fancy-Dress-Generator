@@ -1,4 +1,0 @@
-<iframe id="betmgm-fancy-dress-generator" height="700" scrolling="no" src="https://dev.oathstudio.com/betmgm-fancy-dress/embed.html" style="border: none;" type="text/html" width="100%"></iframe>
-<link rel="stylesheet" href='https://dev.oathstudio.com/betmgm-fancy-dress/css' media='all' />
-
-

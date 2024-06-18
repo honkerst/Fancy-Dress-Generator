@@ -1,7 +1,0 @@
-<script defer src="https://analytics.eu.umami.is/script.js" data-website-id="100d7c49-bdbe-4c65-820d-b20944dd9b02"></script>
-
-
-
-
-Public share URL
-https://analytics.eu.umami.is/share/mGURML8uFQkKJGTZ/dev.oathstudio.com
